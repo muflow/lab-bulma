@@ -1,0 +1,23 @@
+.Field {
+    width: 80vw;
+    margin: 0 auto;
+
+}
+
+.control {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.label {
+    margin-top: 15px;
+
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
